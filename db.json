@@ -8,7 +8,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {"name": "John Doe", "email":"johndoe@gmai.com", "location":"India"},
+     {"name": "Jane Doe", "email":"janedoe@gmai.com", "location":"Japan"},
+    {"name": "Judy Doe", "email":"judydoe@gmai.com", "location":"China"}
+             ]
 }
